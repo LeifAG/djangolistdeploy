@@ -1,1 +1,1 @@
-web: gunicorn listsite.msgi
+web: gunicorn listsite.wsgi
